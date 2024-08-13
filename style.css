@@ -1,5 +1,6 @@
 .container{
     width: 1200px;
+    height:700px;
     border-color: black;
     border-radius: 10px;
     border-style:ridge;
@@ -13,6 +14,12 @@ section{
     width:200px;
     vertical-align: top;
     padding:20px;
+    border-radius:10px;
+    border-style:ridge;
+    border-color:blueviolet;
+    background-color:aliceblue;
+    margin:20px;
+    
 
 }
 .cont-1{
